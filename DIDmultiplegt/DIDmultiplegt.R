@@ -19,6 +19,7 @@ authenticate(Sys.getenv("GITHUB_PAT"), ""),
 # write result to disk
 write_disk(path = temp_file))
 DIDmultiplegt <- readxl::read_excel(temp_file)
+DIDmultiplegt
 # Estimate Difference-in-Difference (DID) designs multiple groups and periods Use DIDmultiplegt (did_multiplegt) With R Software
 Dependen = "Dependen"
 Id = "Id"
