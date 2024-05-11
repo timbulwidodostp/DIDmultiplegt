@@ -1,6 +1,8 @@
 # DIDmultiplegt
 Difference-in-Difference (DID) designs multiple groups and periods Use DIDmultiplegt (did_multiplegt) With R Software
 
+https://www.youtube.com/watch?v=kn-ouefwCRg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
